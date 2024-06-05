@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "notis",
-    "slug": "notis",
+    "name": "qcc",
+    "slug": "qcc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -35,6 +35,11 @@
           ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c298248b-f17f-406f-baf3-f12f4f1692b3"
+      }
+    }
   }
 }
